@@ -5,7 +5,7 @@ The Misra-Gries summary is an algorithm for finding the most frequent elements i
 - alice29.txt - the exemplary book: “Alice’s Adventures in Wonderland”.
 - MisraGriesalgorithm.sc - contain implementation of Misra-Gries algorithm.
 
-# Instructions for "MisraGriesalgorithm":
+# Instructions:
 First to use the program, one must install the Scala compiler. To do so, enter the site and follow the given steps: https://docs.scala-lang.org/getting-started/index.html
 
 Then to start the program one must type the following commands in a terminal:
